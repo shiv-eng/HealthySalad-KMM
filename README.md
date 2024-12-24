@@ -1,7 +1,7 @@
 # 🍲 Healthy Salad (Kotlin Multiplatform Mobile)
 
 Healthy Salad is a simple and sample _mobile application_ built to demonstrate the use of
-_**Kotlin Multiplatform Mobile**_ for developing _Android and iOS_ applications
+**Kotlin Multiplatform Mobile** for developing Android and iOS applications
 using **Jetpack Compose** 🚀.
 
 ## About 
